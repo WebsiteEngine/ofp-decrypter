@@ -1,4 +1,4 @@
-name: Ofp Decrypter by Area69Labs..
+name: Ofp Decrypter
 
 on:
  workflow_dispatch:
